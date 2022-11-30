@@ -1,0 +1,11 @@
+## Prompt de comando
+
+### Comandos:
+
+- dir: lista com todos os arquivos/pastas dentro do diretorio
+- cd: muda de diretorio
+- cd ..: volta para o diretorio anterior
+- cls: limpa o terminal
+- mkdir: criar uma pasta
+- del: apaga um arquivo
+- rmdir: apaga uma pasta
